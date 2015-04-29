@@ -1,0 +1,1 @@
+var today=new Date,hourNow=today.getHours(),greeting;greeting=hourNow>18?"Good evening!":hourNow>12?"Good afternoon!":hourNow>0?"Good Morning!":"Hello!",document.write("<h3>"+greeting+"</h3>");

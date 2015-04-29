@@ -1,0 +1,1 @@
+var colors=new Array("white","black","custom"),el=document.getElementById("colors");el.textContent=colors.item(1);
