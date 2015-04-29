@@ -1,0 +1,1 @@
+var subtotal=70,shipping=7,total=subtotal+shipping,elSub=document.getElementById("subtotal");elSub.textContent=subtotal;var elShip=document.getElementById("shipping");elShip.textContent=shipping;var elTotal=document.getElementById("total");elTotal.textContent=total;
