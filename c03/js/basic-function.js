@@ -4,8 +4,5 @@ function updateMessage(){
     el.textContent = msg;
 }
 
-msg = "this can be redefined anywhere, right?";
 
 updateMessage();
-
-msg = 'not after update, though, right?';
