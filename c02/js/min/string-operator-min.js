@@ -1,0 +1,1 @@
+var greeting="Howdy ",name="Molly",welcomeMessage=greeting+name+"!",el=document.getElementById("greeting");el.textContent=welcomeMessage;

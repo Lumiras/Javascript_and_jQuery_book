@@ -1,0 +1,1 @@
+function updateMessage(){var e=document.getElementById("message");e.textContent=msg}var msg="Sign up to receive our newletter for 10% off!";msg="this can be redefined anywhere, right?",updateMessage(),msg="not after update, though, right?";

@@ -257,12 +257,56 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c02\/js\/min\/arithmetic-operator-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c02\/js\/min\/arithmetic-operator-min.js",
+		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/arithmetic-operator-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c02\/js\/min\/array-constructor-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c02\/js\/min\/array-constructor-min.js",
+		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/array-constructor-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c02\/js\/min\/array-literal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c02\/js\/min\/array-literal-min.js",
+		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/array-literal-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c02\/js\/min\/boolean-variable-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c02\/js\/min\/boolean-variable-min.js",
 		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/boolean-variable-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c02\/js\/min\/example-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c02\/js\/min\/example-min.js",
+		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/example-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -290,6 +334,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c02\/js\/min\/string-operator-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c02\/js\/min\/string-operator-min.js",
+		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/string-operator-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c02\/js\/min\/string-variable-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -307,6 +362,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c02\/js\/min\/string-with-quotes-min.js",
 		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/string-with-quotes-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c02\/js\/min\/update-array-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c02\/js\/min\/update-array-min.js",
+		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/update-array-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c02\/js\/min\/update-variable-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c02\/js\/min\/update-variable-min.js",
+		"outputAbbreviatedPath": "\/c02\/js\/min\/min\/update-variable-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -5276,6 +5353,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/checkmark.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33725,
+		"inputAbbreviatedPath": "\/checkmark.png",
+		"outputAbbreviatedPath": "\/checkmark.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/css\/index.css": {
 		"fileType": 16,
