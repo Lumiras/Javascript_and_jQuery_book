@@ -1,0 +1,1 @@
+var today=new Date,year=today.getFullYear(),est=new Date("Apr 16, 1996 14:45:47"),difference=today.getTime()-est.getTime();difference/=315569e5;var elMsg=document.getElementById("message");elMsg.textContent=Math.floor(difference)+" years of continuous online service";
