@@ -1,0 +1,1 @@
+var pass=50,score=90,hasPassed=score>=pass,el=document.getElementById("answer");el.textContent="Level Passed: "+hasPassed;
