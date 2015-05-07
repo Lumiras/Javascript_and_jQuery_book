@@ -1,0 +1,1 @@
+var table=3,operator="addition",i=1,msg="";if("addition"===operator)for(;11>i;)msg+=i+" + "+table+" = "+(i+table)+"<br />",i++;else for(;11>i;)msg+=i+" x "+table+" = "+i*table+"<br />",i++;var el=document.getElementById("blackboard");el.innerHTML=msg;

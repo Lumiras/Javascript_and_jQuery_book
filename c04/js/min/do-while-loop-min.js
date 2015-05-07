@@ -1,0 +1,1 @@
+var i=1,msg="";do msg+=i+" x 5 ="+5*i+"<br />",i++;while(1>i);document.getElementById("answer").innerHTML=msg;

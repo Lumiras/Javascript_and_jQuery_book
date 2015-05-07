@@ -1,0 +1,1 @@
+function congratulations(){msg+="Congratulations! You did it! "}var score=75,msg="";score>=50&&(congratulations(),msg+="Move on to the next round!");var el=document.getElementById("answer");el.innerHTML=msg;

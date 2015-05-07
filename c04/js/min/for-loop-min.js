@@ -1,0 +1,1 @@
+var scores=[24,36,19],arrayLength=scores.length,roundNumber=0,msg="",i;for(i=0;arrayLength>i;i++)roundNumber=i+1,msg+="Round "+roundNumber+": ",msg+=scores[i]+"<br />";document.getElementById("answer").innerHTML=msg;

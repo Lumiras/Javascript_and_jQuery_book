@@ -1,0 +1,1 @@
+var score=50,pass=75,msg;msg=score>=pass?"Congrats, you did it!":"Sorry, try again";var elMsg=document.getElementById("answer");elMsg.textContent=msg;

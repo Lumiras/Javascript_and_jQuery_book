@@ -1,0 +1,1 @@
+var score1=8,score2=8,pass1=6,pass2=6,passBoth=score1>=pass1&&score2>=pass2,msg="Both rounds passed: "+passBoth,el=document.getElementById("answer");el.textContent=msg;
