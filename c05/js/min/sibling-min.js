@@ -1,0 +1,1 @@
+var startItem=document.getElementById("two"),prevItem=startItem.previousSibling,nextItem=startItem.nextSibling;prevItem.className="complete",nextItem.className="cool";

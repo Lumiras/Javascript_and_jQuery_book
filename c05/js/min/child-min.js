@@ -1,0 +1,1 @@
+var startItem=document.getElementsByTagName("ul")[0],firstItem=startItem.firstChild,lastItem=startItem.lastChild;firstItem.setAttribute("class","complete"),lastItem.setAttribute("class","cool");

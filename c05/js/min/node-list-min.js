@@ -1,0 +1,1 @@
+for(var hotItems=document.querySelectorAll("li.hot"),i=0;i<hotItems.length;i++)hotItems[i].className="cool";
