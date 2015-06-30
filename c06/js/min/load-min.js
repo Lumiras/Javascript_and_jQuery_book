@@ -1,0 +1,1 @@
+function setup(){var e;e=document.getElementById("username"),e.focus()}window.addEventListener("load",setup,!1);

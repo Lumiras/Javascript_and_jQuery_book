@@ -1,0 +1,1 @@
+function checkUsername(){var e=document.getElementById("feedback"),t=document.getElementById("username");t.value.length<5?e.textContent="Username must be five characters or more in length":e.textContent=""}

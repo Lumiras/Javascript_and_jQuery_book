@@ -1,0 +1,1 @@
+function checkUsername(e){elUsername.value.length<e?elMsg.textContent="Username must be more than 5 characters":elMsg.innerHTML=""}var elUsername=document.getElementById("username"),elMsg=document.getElementById("feedback");elUsername.addEventListener("blur",function(){checkUsername(5)},!1);

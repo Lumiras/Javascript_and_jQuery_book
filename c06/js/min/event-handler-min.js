@@ -1,0 +1,1 @@
+function checkUsername(){var e=document.getElementById("feedback");this.value.length<5?e.textContent="Username must be 5 or more characters":e.textContent=""}var elUsername=document.getElementById("username");elUsername.onblur=checkUsername;
