@@ -76,7 +76,7 @@ var docElement            = doc.documentElement,
   // Takes a preloaded js obj (changes in different browsers) and injects it into the head
   // in the appropriate order
   function injectJs ( src, cb, attrs, timeout, /* internal use */ err, internal ) {
-	  
+
     var script = doc.createElement( "script" ),
         done, i;
 
@@ -218,7 +218,7 @@ var docElement            = doc.documentElement,
               scriptCache[ url ][ i ].onload();
             }
           }
-          
+
           // Handle memory leak in IE
            preloadElem.onload = preloadElem.onreadystatechange = null;
         }
@@ -229,7 +229,7 @@ var docElement            = doc.documentElement,
     // Setting url to data for objects or src for img/scripts
     if ( elem == "object" ) {
       preloadElem.data = url;
-	  
+
       // Setting the type attribute to stop Firefox complaining about the mimetype when running locally.
       // The type doesn't matter as long as it's real, thus text/css instead of text/javascript.
       preloadElem.setAttribute("type", "text/css");
@@ -416,7 +416,7 @@ var docElement            = doc.documentElement,
             complete   = testObject['complete'] || noop,
             needGroupSize,
             callbackKey;
-            
+
         // Reusable function for dealing with the different input types
         // NOTE:: relies on closures to keep 'chain' up to date, a bit confusing, but
         // much smaller than the functional equivalent in this case.
