@@ -2511,12 +2511,45 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c06\/js\/min\/example-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c06\/js\/min\/example-min.js",
+		"outputAbbreviatedPath": "\/c06\/js\/min\/min\/example-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c06\/js\/min\/focus-blur-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c06\/js\/min\/focus-blur-min.js",
 		"outputAbbreviatedPath": "\/c06\/js\/min\/min\/focus-blur-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c06\/js\/min\/form-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c06\/js\/min\/form-min.js",
+		"outputAbbreviatedPath": "\/c06\/js\/min\/min\/form-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c06\/js\/min\/html5-events-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c06\/js\/min\/html5-events-min.js",
+		"outputAbbreviatedPath": "\/c06\/js\/min\/min\/html5-events-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2539,6 +2572,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/c06\/js\/min\/load-min.js",
 		"outputAbbreviatedPath": "\/c06\/js\/min\/min\/load-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c06\/js\/min\/mutation-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c06\/js\/min\/mutation-min.js",
+		"outputAbbreviatedPath": "\/c06\/js\/min\/min\/mutation-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

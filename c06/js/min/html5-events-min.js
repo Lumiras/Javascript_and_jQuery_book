@@ -1,0 +1,1 @@
+function setup(){var e;e=document.getElementById("message"),e.focus()}window.addEventListener("DOMContentLoaded",setup,!1),window.addEventListener("beforeunload",function(e){return"You have changes that have not been saved!"},!1);
