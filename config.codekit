@@ -3307,6 +3307,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c07\/js\/min\/basic-example-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c07\/js\/min\/basic-example-min.js",
+		"outputAbbreviatedPath": "\/c07\/js\/min\/min\/basic-example-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c07\/js\/min\/looping-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c07\/js\/min\/looping-min.js",
+		"outputAbbreviatedPath": "\/c07\/js\/min\/min\/looping-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c07\/js\/position.js": {
 		"fileType": 64,
 		"ignore": 0,
