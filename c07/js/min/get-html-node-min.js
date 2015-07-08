@@ -1,0 +1,1 @@
+$(function(){var i=$("li").html();$("li").append("<i>"+i+"</i>")});

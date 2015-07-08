@@ -1,0 +1,1 @@
+$(function(){var p=$("ul").text();$("ul").append("<p>"+p+"</p>")});

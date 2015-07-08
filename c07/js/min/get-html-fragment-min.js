@@ -1,0 +1,1 @@
+$(function(){var l=$("ul").html();$("ul").append(l)});

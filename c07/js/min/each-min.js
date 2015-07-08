@@ -1,0 +1,1 @@
+$(function(){$("li").each(function(){var n=this.id;$(this).append(' <span class="order">'+n+"</span>")})});
