@@ -1,0 +1,1 @@
+$(function(){var o=$(window),t=$("#slideAd"),i=$("#footer").offset().top-o.height()-500;o.on("scroll",function(){i<o.scrollTop()?t.animate({right:"0px"},250):t.stop(!0).animate({right:"-360px"},250)})});

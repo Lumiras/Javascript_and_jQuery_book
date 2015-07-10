@@ -1,0 +1,1 @@
+$(function(){var n="",i=$("li");i.on("mouseover click",function(){n=this.id,i.children("span").remove(),$(this).append(' <span class="priority">'+n+"</span>")}),i.on("mouseout",function(){$(this).children("span").remove()})});

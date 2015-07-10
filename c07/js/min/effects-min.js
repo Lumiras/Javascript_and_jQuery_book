@@ -1,0 +1,1 @@
+$(function(){$("h2").hide().slideDown();var i=$("li");i.hide().each(function(i){$(this).delay(700*i).fadeIn(700)}),i.on("click",function(){$(this).fadeOut(700)})});

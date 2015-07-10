@@ -1,0 +1,1 @@
+$(function(){var o=$("li");o.filter(".hot:last").removeClass("hot"),$("li:not(.hot)").addClass("cool"),o.has("em").addClass("complete"),o.each(function(){var o=$(this);o.is(".hot")&&o.prepend("Priority Item:")}),$('li:contains("honey")').append(" (local)")});

@@ -1,0 +1,1 @@
+$(function(){$("li").on("click",function(t){$("li span").remove();var a=new Date;a.setTime(t.timeStamp);var e=a.toDateString();$(this).append('<span class="date">'+e+" "+t.type+"</span>")})});

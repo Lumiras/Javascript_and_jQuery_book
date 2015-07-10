@@ -1,0 +1,1 @@
+$(function(){var t,o,s,e;$("ul").on("click mouseover || mouseout",":not(#four)",{status:"important"},function(a){$(this).toggleClass("cool"),t="Item: "+a.target.textContent+"<br />",o="Status: "+a.data.status+"<br />",s="Event Type: "+a.type+"<br />",e="Class: "+a["class"]+"<br />",$("#notes").html(t+o+s+e)})});
