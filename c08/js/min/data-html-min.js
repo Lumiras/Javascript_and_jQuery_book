@@ -1,0 +1,1 @@
+var xhr=new XMLHttpRequest;xhr.onload=function(){200===xhr.status&&(document.getElementById("content").innerHTML=xhr.responseText)},xhr.open("GET","data/data.html",!0),xhr.send(null);

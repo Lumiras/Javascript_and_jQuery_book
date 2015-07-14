@@ -4178,6 +4178,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/c08\/js\/min\/data-html-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c08\/js\/min\/data-html-min.js",
+		"outputAbbreviatedPath": "\/c08\/js\/min\/min\/data-html-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/c08\/js\/min\/data-json-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/c08\/js\/min\/data-json-min.js",
+		"outputAbbreviatedPath": "\/c08\/js\/min\/min\/data-json-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/c08\/register.php": {
 		"fileType": 8192,
 		"ignore": 0,
